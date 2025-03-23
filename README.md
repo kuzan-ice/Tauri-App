@@ -6,6 +6,8 @@
 The Pump Water Management App is a smart, offline application designed to help users in less advanced countries efficiently manage their water usage. Built with Tauri, React, and TypeScript in Vite, this application assists users in knowing when to pump water and how long to leave the pumps on. The app was developed as a side project within 24 hours and aims to solve the problem of water management in areas where it is handled by individuals.
 
 
+
+
 > **Video Demo**
 >
 > Watch the video demonstration below to see the app in action:
